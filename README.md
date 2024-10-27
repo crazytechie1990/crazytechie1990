@@ -1,4 +1,4 @@
-# Hi there 👋 I'm CrazyTechieAutomating (S. Bhardwaj)
+# Hi there 👋 I'm Sachin Bhardwaj
 
 I'm a Cloud & DevOps Technical Lead with a strong background in building secure, scalable, and compliant infrastructure in the cloud using Infrastructure as Code (IaC). With hands-on experience across **Azure** and **AWS**, I’m dedicated to delivering smart automation solutions that drive efficiency and security.
 
