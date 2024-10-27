@@ -48,7 +48,7 @@ I'm a Cloud & DevOps Technical Lead with a strong background in building secure,
 - Strong advocate for observability and monitoring, using **Prometheus**, **Grafana**, and **ELK Stack** to improve system reliability and performance.
 
 ## 🌍 Let's Connect!
-- **GitHub**: [https://github.com/CrazyTechieAutomating](https://github.com/CrazyTechieAutomating)
+- **GitHub**: [https://github.com/crazytechie1990](https://github.com/crazytechie1990)
 
 ---
 
