@@ -48,7 +48,6 @@ I'm a Cloud & DevOps Technical Lead with a strong background in building secure,
 - Strong advocate for observability and monitoring, using **Prometheus**, **Grafana**, and **ELK Stack** to improve system reliability and performance.
 
 ## 🌍 Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/sbhardwaj17/](https://www.linkedin.com/in/sbhardwaj17/)
 - **GitHub**: [https://github.com/CrazyTechieAutomating](https://github.com/CrazyTechieAutomating)
 
 ---
